@@ -25,6 +25,8 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile Tokens.sol" button.
 ![image](https://github.com/Abr-204/Solidity/blob/main/Solidity)
+![Screenshot (6)](https://github.com/Abr-204/Solidity/assets/160641018/3fafcf59-442a-49bb-bbf8-d07422f7c4f3)
+
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Tokens" contract from the dropdown menu, and then click on the "Deploy" button.
 
